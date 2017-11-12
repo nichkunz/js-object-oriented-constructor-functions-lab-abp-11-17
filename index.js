@@ -1,4 +1,4 @@
 
-class scooter('year', 'color', 'model') {
+class Scooter('year', 'color', 'model') {
   
 }
